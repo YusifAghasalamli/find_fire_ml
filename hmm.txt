@@ -1,0 +1,7 @@
+scp -i yusif-web-server.pem /Users/yusifagasalamli/Desktop/python/find_fire/nasa2.pkl ec2-user@ec2-16-171-173-235.eu-north-1.compute.amazonaws.com:/home/ec2-user/find_fire
+
+
+scp -i yusif-web-server.pem /Users/yusifagasalamli/Desktop/python/find_fire/NewFastApi.py ec2-user@ec2-16-171-173-235.eu-north-1.compute.amazonaws.com:/home/ec2-user/find_fire
+
+
+scp -i yusif-web-server.pem /Users/yusifagasalamli/Desktop/python/find_fire/req_post.py ec2-user@ec2-16-171-173-235.eu-north-1.compute.amazonaws.com:/home/ec2-user/find_fire
